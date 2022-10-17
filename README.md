@@ -1,0 +1,1 @@
+you should configure ```personal_portfolio/secret_files.py``` and create ```db.sqlite3```

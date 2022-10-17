@@ -1,0 +1,7 @@
+portfolio/__pycache__
+portfolio/migrations/__pycache__
+personal_portfolio/__pycache__
+personal_portfolio/secret_files.py
+blog/__pycache__
+personal_portfolio/settings.py
+db.sqlite3
